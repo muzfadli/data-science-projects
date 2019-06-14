@@ -1,2 +1,2 @@
 # Portfolio Repository
-This is repositoy for my practices/portfolio/projects that i've done.
+This is repository for my practices/projects.
