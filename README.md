@@ -1,2 +1,3 @@
-# Portfolio Repository
-This is repository for my practices/projects.
+# Welcome to my repo
+
+This repository contains my data science study materials
